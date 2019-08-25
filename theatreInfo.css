@@ -1,0 +1,26 @@
+body{
+    margin: 200px;
+    padding: 0px;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    font-weight:bold;
+
+    background-image: url("./back.png");
+    background-repeat: repeat no-repeat;
+    background-size:cover;
+}
+div{
+    margin:20px;
+}
+fieldset{
+    background-color: white;
+    opacity: 0.8;
+}
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+#field{
+    background-color: white;
+    margin:10px;
+    opacity: 0.6;
+}
+
+#exist{
+    margin:300px;
+    font-weight: bold;
+    font-size:400px;
+    color:white;
+}
+
+.login{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+body{
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    right: -40px;
+    bottom: -40px;
+    width: auto;
+    height: auto;
+    background-image: url("./stars.png");
+    background-size: cover;
+    z-index: 0;
+
+}
+.input{
+    margin-bottom: 5px;
+}
+.error{
+    color:red;
+
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+}
+input {
+    display: inline-block;
+    float: left;
+}
+.temp{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+#center{
+    margin-left:600px;
+    margin-right:600px;
+    width:200px;
+    height:50px;
+}
+#select{
+    margin-left:200px;
+    margin-right:200px;
+
+
+}
